@@ -10,7 +10,7 @@ def in_the_zoo():
 			break;
 		if move == "2":
 			print("說好的有愛心呢，忘記人設了嗎？")
-			dead()
+			dead("設計者的譴責")
 			break;
 		else:
 			print("輸入錯誤，請重新輸入")
